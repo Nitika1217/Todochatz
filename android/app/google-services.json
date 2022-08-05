@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506366629015",
+    "project_id": "todochatz-7cd25",
+    "storage_bucket": "todochatz-7cd25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506366629015:android:7dd2929b07c1a9580485d2",
+        "android_client_info": {
+          "package_name": "com.company.todochatz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506366629015-gcqo2h3ldrvte2eobodk4tssda5n0f4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxKqusE085Bp9ps1EoMxY2iYA5TvM_UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506366629015-gcqo2h3ldrvte2eobodk4tssda5n0f4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
